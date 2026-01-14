@@ -1,9 +1,11 @@
+<div align="center">
 
-   #Hi, I'm Adham Mohamed Sharkawy 👋
+| <h1 align="center">Hi, I'm Adham Mohamed Sharkawy 👋</h1> <h3 align="center">React Front-End Developer | Developing and maintaining highly responsive websites.</h3> |
+| :--- |
 
-  #React Front-End Developer|Develope and maintain a highly responsive websites.
+</div>
 
-
+<br>
 
 
 # 💫 About Me:
