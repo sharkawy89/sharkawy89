@@ -39,18 +39,8 @@
 
 ---
 
-### 📊 GitHub Dynamics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sharkawy89&show_icons=true&theme=tokyonight&hide_border=true" alt="Adham's Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkawy89&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
-### ⚽ Beyond the Code
-* **Sports Enthusiast:** Huge football fan and overall sports lover.
-* **Frontend Philosophy:** I believe the bridge between code and the user should be invisible and effortless.
-
 ---
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adham-sharkawy-25985333b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhamsharkawy185@gmail.com)
