@@ -1,6 +1,8 @@
-# Hi, I'm Adham Mohamed Sharkawy 👋
-<hr>
-React Front-End Developer
+<div style="text-align:center">
+  # Hi, I'm Adham Mohamed Sharkawy 👋
+
+  #React Front-End Developer|Develope and maintain a highly responsive websites.
+</div>
 
 
 
