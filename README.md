@@ -1,46 +1,42 @@
-# Hi, I'm Adham Mohamed Sharkawy 👋 
+<div align="center" width="50">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sharkawy89&label=Profile%20views&color=0e7afe&style=flat" alt="sharkawy89" />
-</p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Adham" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-- 🚀 **I build:** Modern, high-performance user interfaces with **React** and **Next.js**.
-- 🛠️ **Expertise:** Crafting clean UX, responsive designs with **Tailwind CSS**, and maintainable frontend architecture.
-- 🌱 **Current Focus:** Performance optimization, Web Accessibility (a11y), and advanced React patterns.
-- 🤝 **Open to:** Front-End Developer roles, UI/UX collaborations, and freelance projects.
+<details>
+<p><strong> <summary> 🎧 Busy coding & Vibing to : </summary> </strong></p>
 
----
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com) <br>
 
-### 🧰 Frontend Toolbox
+</details>
 
-**Core Frameworks & Logic**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Totals Hits](https://komarev.com/ghpvc/?username=sharkawy89&style=flat&color=0e7afe&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adham-sharkawy-25985333b/) <br>
+</div>
 
-**Styling & UI**
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-FF6F61?style=for-the-badge)
+<hr></hr>
 
----
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-blue)
+![semicolon](https://img.shields.io/badge/-%3A-blue)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### 🔧 Featured Project: Next-Circuit E-Commerce
-**A high-speed shopping experience focused on performance and clean UI.**
-
-* **Modern Stack:** Leveraged **React** and **Next.js** to build a lightning-fast, SEO-friendly storefront.
-* **State & Data:** Integrated **Firebase** and **Fetch API** for seamless real-time data flow and authentication.
-* **Responsive Design:** Utilized **Tailwind CSS** to create a mobile-first, pixel-perfect user experience.
-* **Code Quality:** Focused on "Clean Code" principles—resulting in a bug-free, highly maintainable codebase.
-
-👉 [View Repository]([https://github.com/sharkawy89/Next-Circuit](https://your-circuit.vercel.app)
-
----
-
----
-
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adham-sharkawy-25985333b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhamsharkawy185@gmail.com)
+```javascript
+// My Frontend Architecture
+const adhamSharkawy = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "React", "Next.js"],
+  tools: ["Tailwind", "Firebase", "Figma", "Sass"],
+  architecture: "Clean Code & Performance First",
+  currentProject: "Next-Circuit E-Commerce"
+};
