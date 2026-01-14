@@ -35,7 +35,7 @@
 * **Responsive Design:** Utilized **Tailwind CSS** to create a mobile-first, pixel-perfect user experience.
 * **Code Quality:** Focused on "Clean Code" principles—resulting in a bug-free, highly maintainable codebase.
 
-👉 [View Repository](https://github.com/sharkawy89/Next-Circuit)
+👉 [View Repository]([https://github.com/sharkawy89/Next-Circuit](https://your-circuit.vercel.app)
 
 ---
 
