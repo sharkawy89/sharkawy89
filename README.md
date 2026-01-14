@@ -1,7 +1,7 @@
 <div align="center">
 
  <h1 align="center">Hi, I'm Adham Mohamed Sharkawy 👋</h1> <h3 align="center">React Front-End Developer | Developing and maintaining highly responsive websites.</h3> 
- ![Profile Views](https://komarev.com/ghpvc/?username=sharkawy89&label=Profile%20Views&color=0e7afe&style=flat) 
+ [Profile Views](https://komarev.com/ghpvc/?username=sharkawy89&label=Profile%20Views&color=0e7afe&style=flat) 
 
 </div>
 
