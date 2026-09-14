@@ -10,7 +10,7 @@
 
 
 # 💫 About Me:
-front-End Developer | HTML,CSS,javascript,Reactjs&Nodejs | Responsive web Design | git&github.<br><br>Successfully developed and maintained highly responsive and scalable user interfaces using React.js.<br><br>Proficient in implementing mobile-first and responsive web design principles to ensure optimal viewing across all devices."<br><br>Deep expertise in the core Front-End stack: HTML5, CSS3, and JavaScript.<br><br>Experienced in collaborative development using Git for version control and GitHub for repository management.<br><br>Dedicated to writing clean, reusable, and well-documented code.<br>
+front-End Developer | HTML,CSS,javascript,Reactjs | Responsive web Design | git&github.<br><br>Successfully developed and maintained highly responsive and scalable user interfaces using React.js.<br><br>Proficient in implementing mobile-first and responsive web design principles to ensure optimal viewing across all devices."<br><br>Deep expertise in the core Front-End stack: HTML5, CSS3, and JavaScript.<br><br>Experienced in collaborative development using Git for version control and GitHub for repository management.<br><br>Dedicated to writing clean, reusable, and well-documented code.<br>
 
 
 ## 🌐 Socials:
